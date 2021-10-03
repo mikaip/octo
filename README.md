@@ -1,15 +1,5 @@
-# octo
-ayeak
+# was ist octo
+octo ist eine software mit der dein kompletter pc/laptop verbessert wird
 
-
-
-da
-as
-fdas
-fas
-f
-asf
-
-
-
-# line test
+# warum octo 
+DARUM 
